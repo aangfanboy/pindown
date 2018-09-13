@@ -5,8 +5,8 @@ Hi! This is a script that download images from Pinterest and use those images fo
 # How to download images from Pinterest? #
 
 1. Open pindown.py
-2. Program gonna ask you to what you want to do. You can download images with search word or link
-3. Enter search word or link, whatever you want. Then enter how mony images do you want.
+2. Program gonna ask you to what you want to do. You can download images with search word or board link
+3. Enter search word or board link, whatever you want. Then enter how mony images do you want.
 4. Then program will open browser as a headless, you can check the progress from console.
 
 ### Attention Here PLS ### 
